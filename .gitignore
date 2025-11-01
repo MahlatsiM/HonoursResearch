@@ -1,6 +1,11 @@
 # ignore all excell and csv files
 *.xlsx
 *.csv
+* .png
+* .jpg
+* .jpeg
+* .html
+
 
 # ignore all folders
 */
